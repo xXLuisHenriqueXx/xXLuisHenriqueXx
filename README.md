@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**xXLuisHenriqueXx/xXLuisHenriqueXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <center>Olá, me chamo **Luis Henrique Cardoso**, seja bem vindo ao meu perfil! 👋
+## <center>Estudante  de Sistemas de Informação - UFSM-SM
 
-Here are some ideas to get you started:
+* 💻 **Técnico em informática** - IFFAR-JC
+* 🌱 No momento estou estudando **Vue e NodeJS**
+* 📧 Pode me contatar em: luisherni567@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXLuisHenriqueXx&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXLuisHenriqueXx&theme=dracula&langs_count=6&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+## Meus contatos:
+<div style="display: inline_block">
+  <a href="https://github.com/xXLuisHenriqueXx" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70px"/></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70px"/></a>     
+</div>
+
+---
+
+## Linguagens e ferramentas:
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70px"/>
+
+
+</div>
