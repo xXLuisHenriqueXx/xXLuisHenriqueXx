@@ -1,6 +1,5 @@
-
-# <center>Olá, me chamo **Luis Henrique Cardoso**, seja bem vindo ao meu perfil! 👋
-## <center>Estudante  de Sistemas de Informação - UFSM-SM
+<h1 align="center">Olá, me chamo <strong>Luis Henrique Cardoso</strong>, seja bem vindo ao meu perfil! 👋</h1>
+<h2 align="center">Estudante  de Sistemas de Informação - UFSM-SM</h2>
 
 * 💻 **Técnico em informática** - IFFAR-JC
 * 🌱 No momento estou estudando **Vue e NodeJS**
