@@ -3,7 +3,7 @@
 
 * 💻 **Técnico em informática** - IFFAR-JC
 * 🌱 No momento estou estudando **Vue e NodeJS**
-* 📧 Pode me contatar em: luisherni567@gmail.com
+* 📧 Pode me contatar em: luishenri567@gmail.com
 
 
 
