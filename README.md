@@ -5,19 +5,19 @@
 * 🌱 No momento estou estudando **Vue e NodeJS**
 * 📧 Pode me contatar em: luisherni567@gmail.com
 
----
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXLuisHenriqueXx&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXLuisHenriqueXx&theme=dracula&langs_count=6&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 ## Meus contatos:
 <div style="display: inline_block">
   <a href="https://github.com/xXLuisHenriqueXx" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70px"/></a>
   <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70px"/></a>     
 </div>
 
----
+
 
 ## Linguagens e ferramentas:
 <div style="display: inline_block">
