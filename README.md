@@ -2,7 +2,7 @@
 <h2 align="center">Estudante  de Sistemas de Informação - UFSM-SM</h2>
 
 * 💻 **Técnico em informática** - IFFAR-JC
-* 🌱 No momento estou estudando **Vue e NodeJS**
+* 🌱 No momento estou estudando **TypeScript**
 * 📧 Pode me contatar em: luishenri567@gmail.com
 
 
