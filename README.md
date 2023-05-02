@@ -3,7 +3,7 @@
 
 * 💻 **Técnico em informática** - IFFAR-JC
 * 🌱 No momento estou estudando **TypeScript**
-* Visualize meu portifólio em: https://xxluishenriquexx.github.io/projeto_Portifolio/
+* 🤓 Visualize meu portifólio em: https://xxluishenriquexx.github.io/projeto_Portifolio/
 * 📧 Pode me contatar em: luishenri567@gmail.com
 
 
