@@ -14,7 +14,6 @@
 
 ## Meus contatos:
 <div style="display: inline_block">
-  <a href="https://github.com/xXLuisHenriqueXx" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70px"/></a>
   <a href="https://www.linkedin.com/in/luis-henrique-a2b833269/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70px"/></a>     
 </div>
 
