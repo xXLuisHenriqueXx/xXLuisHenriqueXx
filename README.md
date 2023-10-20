@@ -2,7 +2,7 @@
 <h2 align="center">Estudante  de Sistemas de Informação - UFSM-SM</h2>
 
 * 💻 **Técnico em informática** - IFFAR-JC
-* 🌱 No momento estou estudando **TypeScript**
+* 🌱 No momento estou estudando **React**
 * 🤓 Visualize meu portifólio em: https://xxluishenriquexx.github.io/projeto_Portifolio/
 * 📧 Pode me contatar em: luishenri567@gmail.com
 
