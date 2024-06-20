@@ -10,10 +10,10 @@
 - 🎓 **Estudante de Sistemas de Informação** - UFSM-SM
 
 ### Portfólio
-- Você pode visualizar meu portfólio em: [https://xxluishenriquexx.github.io/my_Portifolio/](https://xxluishenriquexx.github.io/my_Portifolio/)
+- 📋 Você pode visualizar meu portfólio em: [https://xxluishenriquexx.github.io/my_portfolio/](https://xxluishenriquexx.github.io/my_portfolio/)
 
 ### Contato
-- 📧 Pode me contatar em: luishenri567@gmail.com
+- 📫 Pode me contatar em: luishenri567@gmail.com
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXLuisHenriqueXx&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
